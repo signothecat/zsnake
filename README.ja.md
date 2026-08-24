@@ -44,7 +44,7 @@ git clone https://github.com/signothecat/zsnake.git
 
 クローンされたディレクトリに移動します:
 
-```
+```zsh
 cd zsnake
 ```
 
@@ -64,7 +64,7 @@ git clone https://github.com/signothecat/zsnake.git
 
 クローンされたディレクトリに移動します:
 
-```
+```zsh
 cd zsnake
 ```
 
@@ -90,7 +90,7 @@ zsnake
 rm -rf zsnake
 ```
 
-もし「グローバルにインストール」をした場合は、`/usr/local/bin`にある zsnake フォルダを削除してください。
+もし「グローバルにインストール」をした場合は、`/usr/local/bin`にある`zsnake`ファイルを削除してください。
 
 ```zsh
 sudo rm /usr/local/bin/zsnake
